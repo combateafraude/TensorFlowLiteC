@@ -22,7 +22,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "TensorFlowLiteC",
-            url: "https://api.github.com/repos/marcuscaf/TensorFlowLiteC/releases/assets/194449011.zip",
+            url: "https://github.com/combateafraude/TensorFlowLiteC/releases/download/2.14.0/TensorFlowLiteC.xcframework.zip",
             checksum: "c45bce0693bd049565056392dce21b5000fe0e67d3f5300c4e015555aaf9e72b"
         )
     ]
