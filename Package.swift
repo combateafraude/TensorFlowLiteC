@@ -23,7 +23,7 @@ let package = Package(
         .binaryTarget(
             name: "TensorFlowLiteC",
             url: "https://github.com/combateafraude/TensorFlowLiteC/releases/download/2.14.0/TensorFlowLiteC.xcframework.zip",
-            checksum: "c45bce0693bd049565056392dce21b5000fe0e67d3f5300c4e015555aaf9e72b"
+            checksum: "1617d8755979a8bac573096324588ca47a46bf4787f481efcdf7d3d871f0cbaf"
         )
     ]
 )
